@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6a6e717b.chunk.css",
+    "main.js": "/static/js/main.2e603f3a.chunk.js",
+    "main.js.map": "/static/js/main.2e603f3a.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.c8a21426.js",
+    "runtime-main.js.map": "/static/js/runtime-main.c8a21426.js.map",
+    "static/css/2.de5665f9.chunk.css": "/static/css/2.de5665f9.chunk.css",
+    "static/js/2.94545bf7.chunk.js": "/static/js/2.94545bf7.chunk.js",
+    "static/js/2.94545bf7.chunk.js.map": "/static/js/2.94545bf7.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.aa5426973b4b7b95876e3c80784dc75a.js": "/precache-manifest.aa5426973b4b7b95876e3c80784dc75a.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.de5665f9.chunk.css.map": "/static/css/2.de5665f9.chunk.css.map",
+    "static/css/main.6a6e717b.chunk.css.map": "/static/css/main.6a6e717b.chunk.css.map",
+    "static/js/2.94545bf7.chunk.js.LICENSE.txt": "/static/js/2.94545bf7.chunk.js.LICENSE.txt",
+    "static/media/domain.svg": "/static/media/domain.b86c71d5.svg",
+    "static/media/forgot-password-right.png": "/static/media/forgot-password-right.cac431b4.png",
+    "static/media/loading.gif": "/static/media/loading.e4b6323e.gif",
+    "static/media/login-right-image.png": "/static/media/login-right-image.79b6f821.png",
+    "static/media/logo.webp": "/static/media/logo.86865c0b.webp",
+    "static/media/server-apps.svg": "/static/media/server-apps.942caf49.svg",
+    "static/media/server-ip.svg": "/static/media/server-ip.6a5ad86b.svg",
+    "static/media/server-location.svg": "/static/media/server-location.905f99b2.svg",
+    "static/media/server-memory.svg": "/static/media/server-memory.b4ba0568.svg",
+    "static/media/server-password.svg": "/static/media/server-password.5cee488e.svg",
+    "static/media/server-ram.svg": "/static/media/server-ram.348dda9d.svg",
+    "static/media/server-storage.svg": "/static/media/server-storage.c2630b81.svg",
+    "static/media/server-user.svg": "/static/media/server-user.25c7b62e.svg",
+    "static/media/signup-right-image.png": "/static/media/signup-right-image.14e4a140.png",
+    "static/media/wordpress.png": "/static/media/wordpress.13757bb5.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c8a21426.js",
+    "static/css/2.de5665f9.chunk.css",
+    "static/js/2.94545bf7.chunk.js",
+    "static/css/main.6a6e717b.chunk.css",
+    "static/js/main.2e603f3a.chunk.js"
+  ]
+}
